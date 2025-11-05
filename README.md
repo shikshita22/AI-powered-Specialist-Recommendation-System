@@ -9,12 +9,12 @@ Support personalized medicine using medical records, history, and genetics
 Build a faster, accurate, and fully digital healthcare referral system
 
 # Machine Learning Model Used
-Decision Tree
-Random Forest
+Decision Tree,
+Random Forest,
 Naive Bayes
 
 # Model Performance
-Model - Accuracy - F1 Score
-Decision Tree - 94.49% - 0.9449
-Random Forest	- 92.07%  - 0.9307
+Model - Accuracy - F1 Score:
+Decision Tree - 94.49% - 0.9449,
+Random Forest	- 92.07%  - 0.9307,
 Naive Bayes	- 93.06%  - 0.9306
